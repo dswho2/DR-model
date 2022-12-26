@@ -1,0 +1,6 @@
+Data/
+Results/
+.ipynb_checkpoints/
+*.keras
+checkpoints/
+*.png
